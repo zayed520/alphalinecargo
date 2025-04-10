@@ -1,0 +1,1412 @@
+Uri: https://fonts.googleapis.com/css?display=swap&family=Montserrat:300%2C400|Cabin:300%2C400
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:wght%40400%2C600%2C700%2C800|Yantramanav:wght%40300%2C400%2C500%2C700%2C900%26display%3Dswap&subset=latin%2Clatin-ext&ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cabin/v27/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7alwg.ttf
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\s\cabin\v27\u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7alwg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\s\poppins\v22\pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\s\poppins\v22\pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\s\poppins\v22\pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJnedw.ttf
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\s\poppins\v22\pxiEyp8kv8JHgFVrJJnedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yantramanav/v13/flU8Rqu5zY00QEpyWJYWN5f9XeM.ttf
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\s\yantramanav\v13\flU8Rqu5zY00QEpyWJYWN5f9XeM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yantramanav/v13/flUhRqu5zY00QEpyWJYWN58AfvNQKBY.ttf
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\s\yantramanav\v13\flUhRqu5zY00QEpyWJYWN58AfvNQKBY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yantramanav/v13/flUhRqu5zY00QEpyWJYWN59IePNQKBY.ttf
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\s\yantramanav\v13\flUhRqu5zY00QEpyWJYWN59IePNQKBY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yantramanav/v13/flUhRqu5zY00QEpyWJYWN59wevNQKBY.ttf
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\s\yantramanav\v13\flUhRqu5zY00QEpyWJYWN59wevNQKBY.ttf
+Content Type: font/ttf
+
+Uri: https://gcc-cargo.com/en/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/air-freight/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\air-freight\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/car-shipping/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\car-shipping\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/career/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\career\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/cargo-packaging/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\cargo-packaging\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/comments/feed/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://gcc-cargo.com/en/consolidationservice/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\consolidationservice\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/dangerous-goods/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\dangerous-goods\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/event-exhibition-logistics-planning/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\event-exhibition-logistics-planning\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/faqs/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\faqs\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/feed/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://gcc-cargo.com/en/freight-tools/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\freight-tools\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/gallery/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\gallery\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/logistic-terminologies/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\logistic-terminologies\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/network/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\network\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/ocean-freight/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\ocean-freight\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/packaging-relocation/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\packaging-relocation\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/perishable-cargo/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\perishable-cargo\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/request-a-quote/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\request-a-quote\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/resources-2/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\resources-2\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/road-freight/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\road-freight\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/roro/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\roro\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/sample-page/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\sample-page\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/sample-page/feed/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\sample-page\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://gcc-cargo.com/en/services/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\services\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/shipping-destination/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\shipping-destination\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/storage-warehousing/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\storage-warehousing\index.htm
+Content Type: text/html
+
+Uri: https://gcc-cargo.com/en/wp-json/
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fair-freight%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fair-freight%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fcar-shipping%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fcar-shipping%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fcareer%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fcareer%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fcargo-packaging%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fcargo-packaging%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fconsolidationservice%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fconsolidationservice%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fdangerous-goods%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fdangerous-goods%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fevent-exhibition-logistics-planning%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fevent-exhibition-logistics-planning%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Ffaqs%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Ffaqs%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Ffreight-tools%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Ffreight-tools%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fgallery%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fgallery%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Flogistic-terminologies%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Flogistic-terminologies%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fnetwork%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fnetwork%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Focean-freight%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Focean-freight%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fpackaging-relocation%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fpackaging-relocation%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fperishable-cargo%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fperishable-cargo%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Frequest-a-quote%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Frequest-a-quote%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fresources-2%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fresources-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Froad-freight%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Froad-freight%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Froro%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Froro%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fsample-page%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fsample-page%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fservices%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fservices%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fshipping-destination%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fshipping-destination%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fstorage-warehousing%2F
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/oembed/1.0/embed?url=https:%2F%2Fgcc-cargo.com%2Fen%2Fstorage-warehousing%2F&format=xml
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/12
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/1323
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\1323
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/3881
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\3881
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/3921
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\3921
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/3978
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\3978
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/4098
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\4098
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/4208
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\4208
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/424
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\424
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/484
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\484
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/486
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\486
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/5017
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\5017
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/6000
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\6000
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/6007
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\6007
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/6012
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\6012
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/6015
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\6015
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/6274
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\6274
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/633
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\633
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/634
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\634
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/635
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\635
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/640
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\640
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/6637
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\6637
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/7093
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\7093
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/en/wp-json/wp/v2/pages/7100
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\en\wp-json\wp\v2\pages\7100
+Content Type: application/json
+
+Uri: https://gcc-cargo.com/wp-content/plugins/chaty-pro/css/chaty-front.min.css?ver=16977176753.0.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\chaty-pro\css\chaty-front.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/chaty-pro/js/cht-front-script.min.js?ver=16977176753.0.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\chaty-pro\js\cht-front-script.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.5
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.5
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.5
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor-pro\assets\js\preloaded-elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\css\widget-google_maps.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/animations/styles/bounceIn.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\animations\styles\bounceIn.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeIn.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/animations/styles/flash.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\animations\styles\flash.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.36.0
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=6.1.9
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min-1.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=6.1.9
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min-1.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.28.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=6.1.9
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min-1.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.4.8
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.4.8
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/odometer-theme-default.css?ver=3.4.8
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\odometer-theme-default.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.4.8
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.4.8
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.4.8
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.4.8
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/odometer.min.js?ver=3.4.8
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\odometer.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.4.8
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\admin\images\templately\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gcc-cargo.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.1.9
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.1.9
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=84052299
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\nextend-smart-slider3-pro\Public\SmartSlider3\Application\Frontend\Assets\dist\n2.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=84052299
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\nextend-smart-slider3-pro\Public\SmartSlider3\Application\Frontend\Assets\dist\smartslider-frontend.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=84052299
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\nextend-smart-slider3-pro\Public\SmartSlider3\Application\Frontend\Assets\dist\smartslider.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/smartslider-backgroundanimation.min.js?ver=84052299
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\nextend-smart-slider3-pro\Public\SmartSlider3\Slider\SliderType\Simple\Assets\dist\smartslider-backgroundanimation.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=84052299
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\nextend-smart-slider3-pro\Public\SmartSlider3\Slider\SliderType\Simple\Assets\dist\ss-simple.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=84052299
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\nextend-smart-slider3-pro\Public\SmartSlider3\Widget\Arrow\ArrowImage\Assets\dist\w-arrow-image.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/sticky-header-effects-for-elementor/assets/css/she-header-style.css?ver=1.7.8
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\sticky-header-effects-for-elementor\assets\css\she-header-style.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/sticky-header-effects-for-elementor/assets/js/she-header.js?ver=1.7.8
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\sticky-header-effects-for-elementor\assets\js\she-header.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=2.9.10
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\translatepress-multilingual\assets\css\trp-language-switcher.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/translatepress-multilingual/assets/js/trp-frontend-compatibility.js?ver=2.9.10
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\translatepress-multilingual\assets\js\trp-frontend-compatibility.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/css/brands.css?ver=9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\css\brands.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\js\frontend\order-attribution.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.8.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\plugins\woocommerce\assets\js\sourcebuster\sourcebuster.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/animate.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/bootstrap.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/botstrap-select.min.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\botstrap-select.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/color.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\color.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/custom-animate.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\custom-animate.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/custom.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\custom.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/flaticon.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/fontawesome-all.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\fontawesome-all.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/hover.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\hover.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/jquery-ui.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/jquery.fancybox.min.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/jquery.touchspin.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\jquery.touchspin.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/owl.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\owl.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/polyglot-language-switcher.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\polyglot-language-switcher.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/responsive.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/scrollbar.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\scrollbar.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/stroke-gap.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\stroke-gap.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/style.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\style.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/css/swiper.min.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/appear.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\appear.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/bootstrap-select.min.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\bootstrap-select.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/bootstrap.min.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/isotope.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\isotope.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/jquery.ajaxchimp.min.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\jquery.ajaxchimp.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/jquery.fancybox.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\jquery.fancybox.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/jquery.polyglot.language.switcher.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\jquery.polyglot.language.switcher.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/lazyload.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\lazyload.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/owl.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\owl.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/pagenav.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\pagenav.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/parallax-scroll.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\parallax-scroll.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/popper.min.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\popper.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/script.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\script.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/scrollbar.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\scrollbar.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/TweenMax.min.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\TweenMax.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/themes/transida/assets/js/wow.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\themes\transida\assets\js\wow.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/04/306842063_484329240374737_3863038474730730351_n__1_-removebg-preview.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\04\306842063_484329240374737_3863038474730730351_n__1_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/04/cropped-306842063_484329240374737_3863038474730730351_n__1_-removebg-preview-e1683270259895-180x180.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\04\cropped-306842063_484329240374737_3863038474730730351_n__1_-removebg-preview-e1683270259895-180x180.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/04/cropped-306842063_484329240374737_3863038474730730351_n__1_-removebg-preview-e1683270259895-192x192.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\04\cropped-306842063_484329240374737_3863038474730730351_n__1_-removebg-preview-e1683270259895-192x192.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/04/cropped-306842063_484329240374737_3863038474730730351_n__1_-removebg-preview-e1683270259895-32x32.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\04\cropped-306842063_484329240374737_3863038474730730351_n__1_-removebg-preview-e1683270259895-32x32.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/04/imageedit_1_7413899293-1024x393.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\04\imageedit_1_7413899293-1024x393.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/04/imageedit_1_7413899293-300x115.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\04\imageedit_1_7413899293-300x115.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/04/imageedit_1_7413899293-600x230.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\04\imageedit_1_7413899293-600x230.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/04/imageedit_1_7413899293-768x295.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\04\imageedit_1_7413899293-768x295.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/04/imageedit_1_7413899293.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\04\imageedit_1_7413899293.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/argo-300x218.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\argo-300x218.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/argo-370x270.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\argo-370x270.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/argo-600x435.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\argo-600x435.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/argo-768x557.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\argo-768x557.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/argo.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\argo.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/ulva-lactuca-1024x584.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\ulva-lactuca-1024x584.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/ulva-lactuca-300x171.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\ulva-lactuca-300x171.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/ulva-lactuca-600x342.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\ulva-lactuca-600x342.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/ulva-lactuca-768x438.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\ulva-lactuca-768x438.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/ulva-lactuca.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\ulva-lactuca.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081045.122-300x218.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081045.122-300x218.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081045.122-370x270.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081045.122-370x270.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081045.122-600x435.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081045.122-600x435.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081045.122-768x557.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081045.122-768x557.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081045.122.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081045.122.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081329.572-300x218.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081329.572-300x218.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081329.572-370x270.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081329.572-370x270.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081329.572-600x435.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081329.572-600x435.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081329.572-768x557.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081329.572-768x557.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081329.572.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081329.572.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081812.205-300x218.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081812.205-300x218.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081812.205-370x270.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081812.205-370x270.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081812.205-600x435.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081812.205-600x435.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081812.205-768x557.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081812.205-768x557.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-2023-05-15T081812.205.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-2023-05-15T081812.205.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-95-300x218.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-95-300x218.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-95-370x270.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-95-370x270.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-95-600x435.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-95-600x435.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-95-768x557.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-95-768x557.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-95.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-95.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-97-300x218.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-97-300x218.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-97-370x270.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-97-370x270.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-97-600x435.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-97-600x435.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-97-768x557.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-97-768x557.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-97.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-97.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-98-300x218.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-98-300x218.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-98-370x270.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-98-370x270.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-98-600x435.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-98-600x435.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-98-768x557.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-98-768x557.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-98.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-98.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-99-300x218.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-99-300x218.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-99-370x270.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-99-370x270.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-99-600x435.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-99-600x435.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-99-768x557.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-99-768x557.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/05/Untitled-design-99.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\05\Untitled-design-99.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/07/website-under-maintenance-4315048-3610782-15x12.webp
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\07\website-under-maintenance-4315048-3610782-15x12.webp
+Content Type: image/webp
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/07/website-under-maintenance-4315048-3610782-300x233.webp
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\07\website-under-maintenance-4315048-3610782-300x233.webp
+Content Type: image/webp
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/07/website-under-maintenance-4315048-3610782.webp
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\07\website-under-maintenance-4315048-3610782.webp
+Content Type: image/webp
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/1-1-scaled.jpg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\1-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/abc_1466152111_87.jpeg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\abc_1466152111_87.jpeg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/Air-freight.jpg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\Air-freight.jpg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/close-up-warehouse-view-scaled.jpg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\close-up-warehouse-view-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/consolidation-services.jpg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\consolidation-services.jpg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/d965ffb8226241de50d32b1f08547379.jpeg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\d965ffb8226241de50d32b1f08547379.jpeg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/exhibition.jpg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\exhibition.jpg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/fb2e9cf5-7865-45dc-b7c4-c86b1bf18f08.jpg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\fb2e9cf5-7865-45dc-b7c4-c86b1bf18f08.jpg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/gt-carrier-risk-management-1.jpg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\gt-carrier-risk-management-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/land-freight-1024x576.jpeg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\land-freight-1024x576.jpeg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/land-freight-1536x864.jpeg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\land-freight-1536x864.jpeg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/land-freight-18x10.jpeg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\land-freight-18x10.jpeg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/land-freight-300x169.jpeg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\land-freight-300x169.jpeg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/land-freight-600x338.jpeg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\land-freight-600x338.jpeg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/land-freight-768x432.jpeg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\land-freight-768x432.jpeg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/land-freight.jpeg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\land-freight.jpeg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/relocation-scaled.jpg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\relocation-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/roro-shipping.jpg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\roro-shipping.jpg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/08/sea-freight-scaled.jpg
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\08\sea-freight-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T155548.735-18x12.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T155548.735-18x12.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T155548.735-300x218.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T155548.735-300x218.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T155548.735-370x270.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T155548.735-370x270.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T155548.735-600x435.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T155548.735-600x435.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T155548.735-768x557.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T155548.735-768x557.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T155548.735.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T155548.735.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T161920.415-18x12.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T161920.415-18x12.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T161920.415-300x218.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T161920.415-300x218.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T161920.415-370x270.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T161920.415-370x270.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T161920.415-600x435.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T161920.415-600x435.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T161920.415-768x557.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T161920.415-768x557.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T161920.415.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T161920.415.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T162309.998-18x12.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T162309.998-18x12.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T162309.998-300x218.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T162309.998-300x218.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T162309.998-370x270.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T162309.998-370x270.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T162309.998-600x435.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T162309.998-600x435.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T162309.998-768x557.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T162309.998-768x557.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/2023/09/Untitled-design-2023-09-23T162309.998.png
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\2023\09\Untitled-design-2023-09-23T162309.998.png
+Content Type: image/png
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-12.css?ver=1734637404
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-12.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-1323.css?ver=1734655920
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-1323.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-2390.css?ver=1734635722
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-2390.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-2571.css?ver=1734635722
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-2571.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-3881.css?ver=1734635726
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-3881.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-3921.css?ver=1734652134
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-3921.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-3978.css?ver=1734670267
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-3978.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-4098.css?ver=1734667299
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-4098.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-4208.css?ver=1734649822
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-4208.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-424.css?ver=1734645514
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-424.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-484.css?ver=1734657799
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-484.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-486.css?ver=1734665398
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-486.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-5017.css?ver=1734670561
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-5017.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-6000.css?ver=1734662909
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-6000.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-6007.css?ver=1734650442
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-6007.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-6012.css?ver=1734646700
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-6012.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-6015.css?ver=1734670542
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-6015.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-6274.css?ver=1734662868
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-6274.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-633.css?ver=1734664028
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-633.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-634.css?ver=1734647619
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-634.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-635.css?ver=1734638650
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-635.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-640.css?ver=1734663679
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-640.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-6637.css?ver=1734657535
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-6637.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-7.css?ver=1734635724
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-7093.css?ver=1734655715
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-7093.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/css/post-7100.css?ver=1734667074
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\css\post-7100.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/google-fonts/css/lato.css?ver=1742246975
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\google-fonts\css\lato.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742247019
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\google-fonts\css\roboto.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742247039
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\elementor\google-fonts\css\robotoslab.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/essential-addons-elementor/eael-3978.css?ver=1704443006
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\essential-addons-elementor\eael-3978.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/essential-addons-elementor/eael-3978.js?ver=1704443006
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\essential-addons-elementor\eael-3978.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-content/uploads/essential-addons-elementor/eael-4208.css?ver=1699848101
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\essential-addons-elementor\eael-4208.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-content/uploads/essential-addons-elementor/eael-4208.js?ver=1699848101
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-content\uploads\essential-addons-elementor\eael-4208.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://gcc-cargo.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-includes/js/underscore.min.js?ver=1.13.7
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-includes\js\underscore.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/wp-includes/js/wp-util.min.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\wp-includes\js\wp-util.min.js
+Content Type: text/javascript
+
+Uri: https://gcc-cargo.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\gcc-cargo.com\xmlrpc.php
+Content Type: text/xml
+
